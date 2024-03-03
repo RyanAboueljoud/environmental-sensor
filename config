@@ -1,0 +1,6 @@
+database=database
+retentionPolicy=autogen
+address=localhost
+port=8086
+login=login
+password=password
